@@ -1,1 +1,5 @@
-# lab.555
+#include<stdio.h>
+void man()
+{
+
+}
